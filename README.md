@@ -14,6 +14,7 @@ This graph illustrates the relationship between the unemployment rate and tobacc
 <div align="center">
     <img src="Renewable_energy-consumption.png" alt="Tobacco Consumption and Unemployment" width="500">
 </div>
+
 ### **Analysis**  
 The graph shows the trends in the unemployment rate and renewable energy consumption in the U.S. (1995–2010). While renewable energy consumption declined from 1997 to 2001, it then consistently increased until 2010. However, the unemployment rate increased after 2001, peaking at **10% in 2010**, mainly due to the **2008 financial crisis**.
 
@@ -21,6 +22,7 @@ The graph shows the trends in the unemployment rate and renewable energy consump
 <div align="center">
     <img src="Education spending.png" alt="Tobacco Consumption and Unemployment" width="500">
 </div>
+
 ### **Analysis**  
 This graph compares **government education spending (as GDP share)** and the **unemployment rate** in the U.S. (2000–2020). Education spending slightly increased from 2000 to 2009 but dropped significantly in 2015 before rising again to **6% by 2020**, while the unemployment rate decreased.
 
